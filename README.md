@@ -15,3 +15,5 @@
 [1] https://github.com/bentrevett/pytorch-seq2seq<br>
 [2] https://pytorch.org/tutorials/<br>
 [3] https://github.com/huggingface/transformers
+
+PS: The format of dataset is two columns of chat sentences from two people.
